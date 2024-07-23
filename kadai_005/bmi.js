@@ -1,9 +1,9 @@
 let bodyWeight;
-bodyWeight = '68kg';
+bodyWeight = '68';
 console.log(bodyWeight);
 
 let height;
-height = '1.7m'
+height = '1.7'
 console.log(height);
 
-console.log(68/(1.7*1.7))
+console.log(bodyWeight/(height*height))
